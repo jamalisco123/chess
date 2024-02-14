@@ -1,0 +1,48 @@
+img {
+  width: 400px;
+  height: 300px;
+}
+
+html {
+  background-image: url(images/boardBackground.jpg);
+}
+
+body {
+  background: rgba(255, 255, 255, 0.9);
+  width: 600px;
+  margin: auto;
+  padding: 20px 75px;
+}
+
+h2 {
+  color: orange;
+  text-align: center;
+}
+
+h3 {
+  color: purple;
+  text-align: center;
+}
+
+h4 {
+  color: red;
+  text-align: center;
+}
+
+h1 {
+  background-color: rgb(60, 60, 60);
+  color: white;
+  border-radius: 40px;
+  letter-spacing: 4px;
+}
+
+.Kavivanar {
+  font-family: "Kavivanar", cursive;
+}
+
+/* // <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 100 to 900 */
+
+.Montserrat > {
+  font-family: "Montserrat", sans-serif;
+}
